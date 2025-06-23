@@ -4,7 +4,7 @@ This project analyzes the Pantheon+SH0ES Type Ia supernova dataset to estimate t
 
 ---
 
-# Objectives
+## Objectives
 
 - Construct the Hubble diagram using redshift \( z \) and distance modulus.
 - Fit theoretical models (ΛCDM) to the data to extract the Hubbke constant.
@@ -12,7 +12,7 @@ This project analyzes the Pantheon+SH0ES Type Ia supernova dataset to estimate t
 
 ---
 
-# Background
+## Background
 
 Type Ia supernovae serve as **standard candles** in cosmology. By comparing observed magnitudes with redshifts, we reconstruct the universe’s expansion history and constrain cosmological parameters.
 
@@ -23,7 +23,7 @@ Key concepts:
 
 ---
 
-# Tools
+## Tools
 
 - `NumPy`, `SciPy`, `Matplotlib`, `Pandas`
 - Curve fitting (`scipy.optimize.curve_fit`)
@@ -31,7 +31,7 @@ Key concepts:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 - Pantheon+SH0ES.dat # Supernova data file
 - Hubble_Fit.ipynb # Main analysis notebook
@@ -42,7 +42,7 @@ Key concepts:
 
 ---
 
-## 🔬 Results
+##  Results
 
 - Estimated Hubble constant:  H_0 =  72.97 ± 0.26 km/s/Mpc  
 - Estimated age of the universe: t_0 =  12.37 billion years  
@@ -50,7 +50,7 @@ Key concepts:
 
 ---
 
-# References
+## References
 
 - Riess et al., Pantheon+SH0ES Compilation, 2022  
 - David Tong, Statistical Physics & Cosmology
