@@ -58,7 +58,9 @@ Key concepts:
 
 ---
 
-> Author: Arnav Wadalkar | BSc Physics | NIT Rourkela  
-> Summer 2025 Project under ISA
+> Author: Arnav Wadalkar | BSc Physics | NIT Rourkela
+> 
+> This project was completed as part of the Indian Space Academy, Department of Space Education Summer Internship 2025.
+
 
 
